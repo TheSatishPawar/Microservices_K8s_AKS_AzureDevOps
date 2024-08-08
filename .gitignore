@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Microservices_K8s_AKS_AzureDevOps/FileContentIndex/47323382-5e05-4630-be29-f0efc5a630b0.vsidx
+/Shopping/.vs/Shopping/FileContentIndex
+/Shopping/Shopping.API/bin/Debug/net8.0
+/Shopping/Shopping.API/obj
+/Shopping/Shopping.Client/bin
+/Shopping/Shopping.Client/obj

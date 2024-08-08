@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD2866-5A9E-4DFE-8726-AA23E6CC8AC6}|Shopping.API\\Shopping.API.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD2866-5A9E-4DFE-8726-AA23E6CC8AC6}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD2866-5A9E-4DFE-8726-AA23E6CC8AC6}|Shopping.API\\Shopping.API.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.api\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD2866-5A9E-4DFE-8726-AA23E6CC8AC6}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD2866-5A9E-4DFE-8726-AA23E6CC8AC6}|Shopping.API\\Shopping.API.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD2866-5A9E-4DFE-8726-AA23E6CC8AC6}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD2866-5A9E-4DFE-8726-AA23E6CC8AC6}|Shopping.API\\Shopping.API.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD2866-5A9E-4DFE-8726-AA23E6CC8AC6}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|e:\\working projects\\microservices_k8s_aks_azuredevops\\shopping\\shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608F09D8-6EF3-4B26-B7F7-BAB2A03CB9AB}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Program.cs",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Program.cs",
+              "RelativeToolTip": "Shopping.Client\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:22:32.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Models\\Product.cs",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.API\\Models\\Product.cs",
+              "RelativeToolTip": "Shopping.API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:02:27.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.API\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Program.cs",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.API\\Program.cs",
+              "RelativeToolTip": "Shopping.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:01:36.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\appsettings.json",
+              "RelativeDocumentMoniker": "Shopping.Client\\appsettings.json",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\appsettings.json",
+              "RelativeToolTip": "Shopping.Client\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T08:40:22.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Shopping.Client\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Shopping.Client\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T08:38:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Dockerfile",
+              "RelativeDocumentMoniker": "Shopping.Client\\Dockerfile",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Dockerfile",
+              "RelativeToolTip": "Shopping.Client\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T19:31:43.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping.Client\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shopping.Client\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T15:22:11.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.API\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Data\\ProductContext.cs",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.API\\Data\\ProductContext.cs",
+              "RelativeToolTip": "Shopping.API\\Data\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:11:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shopping.Client\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:21:09.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Shopping.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:04:01.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Data\\ProductContext.cs",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Data\\ProductContext.cs",
+              "RelativeToolTip": "Shopping.Client\\Data\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:13:21.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Models\\Product.cs",
+              "ToolTip": "E:\\Working Projects\\Microservices_K8s_AKS_AzureDevOps\\Shopping\\Shopping.Client\\Models\\Product.cs",
+              "RelativeToolTip": "Shopping.Client\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:54:59.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
